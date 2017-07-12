@@ -1,1 +1,1 @@
-Hello Git. A version control system. I modified readme file.
+Hello Git. A version control system. I modified readme file. I want to test reset.
