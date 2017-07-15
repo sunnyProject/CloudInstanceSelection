@@ -1,3 +1,4 @@
 I want to test the remote repository.
 I want to test the branch.
-I want to test two collisions. 
+I want to test some collisions. 
+
